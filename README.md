@@ -188,8 +188,7 @@ The dashboard contains:
 🎯 Business Value
 
 This dashboard can help businesses:
-
-Reduce stockout risk
+- Reduce stockout risk
 - Identify excess inventory
 - Improve purchasing decisions
 - Monitor warehouse distribution
