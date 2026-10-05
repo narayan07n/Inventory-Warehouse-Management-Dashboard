@@ -183,7 +183,7 @@ The dashboard contains:
 
 ## 🖼️ Dashboard Preview
 
-![Inventory & Warehouse Management Dashboard]()
+![Inventory & Warehouse Management Dashboard](https://github.com/narayan07n/Inventory-Warehouse-Management-Dashboard/blob/main/Screenshot%202026-09-29%20185510.png?raw=true)
 
 🎯 Business Value
 
